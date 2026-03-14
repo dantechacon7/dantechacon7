@@ -1,8 +1,6 @@
 # Opa, tudo joia? Eu me chamo Dante 👋
 
 Analista de Dados | Analytics Engineer | BI  
-Analytics Operacional • Automação • Dados para Risco e Compliance
-
 📍 Brasil  
 🔗 LinkedIn: https://linkedin.com/in/dante-costa-chacon
 
