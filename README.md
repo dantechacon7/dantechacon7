@@ -1,32 +1,32 @@
-# Dante Chacon
+# Opa, tudo joia? Eu me chamo Dante 👋
 
-Data Analyst | Analytics Engineer | BI Analyst  
-Operational Analytics • Automation • Risk / Compliance Data
+Analista de Dados | Analytics Engineer | BI  
+Analytics Operacional • Automação • Dados para Risco e Compliance
 
-📍 Brazil  
+📍 Brasil  
 🔗 LinkedIn: https://linkedin.com/in/dante-costa-chacon
 
 ---
 
-## About
+## Sobre
 
-Data professional with **5+ years building analytics solutions for operations** across fintech, proptech and SaaS.
+Profissional de dados com **+5 anos aplicando analytics para melhorar operações**, atuando em empresas de fintech, proptech e SaaS.
 
-My work sits at the intersection of **data, automation and operational decision-making**, helping teams move from manual processes to scalable, data-driven workflows.
+Meu trabalho conecta **dados, automação e decisões operacionais**, ajudando times a sair de processos manuais para fluxos automatizados e orientados a dados.
 
-Experience supporting **Compliance, CX, Risk and Product teams** with analytics, data modeling and process automation.
+Experiência apoiando áreas como **Compliance, CX, Risco, Produto e Operações** com modelagem de dados, automação e inteligência analítica.
 
 ---
 
-## Tech Stack
+## Stack
 
-### Data
+### Dados
 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Data Modeling](https://img.shields.io/badge/Data_Modeling-6C63FF?style=for-the-badge)
 
-### Data Infrastructure
+### Infraestrutura de Dados
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -38,7 +38,7 @@ Experience supporting **Compliance, CX, Risk and Product teams** with analytics,
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
-### Automation
+### Automação
 
 ![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira_Automation-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -46,42 +46,42 @@ Experience supporting **Compliance, CX, Risk and Product teams** with analytics,
 
 ---
 
-## Experience
+## Experiência
 
-**Senior Data Analyst — AML / Compliance | Caju**
+**Analista de Dados Sênior — PLD/AML | Caju**
 
-Operational analytics and data automation for **transaction monitoring and regulatory workflows**, supporting risk and compliance decisions.
+Analytics operacional e automação de dados para **monitoramento transacional e fluxos regulatórios**, apoiando decisões de risco e compliance.
 
-**Senior Planning & Performance Analyst | QuintoAndar**
+**Analista Sênior de Planejamento e Performance | QuintoAndar**
 
-Data modeling, BI dashboards and automation supporting **multiple operational squads** and improving data access and governance.
+Modelagem de dados, dashboards analíticos e automações para **suporte a múltiplos squads operacionais**.
 
 **Customer Excellence Analyst | Nubank**
 
-Operational analytics and data governance for **BPO operations**, improving performance tracking and decision support.
+Analytics operacional e governança de dados para **operações com BPOs e monitoramento de performance**.
 
 ---
 
-## Selected Impact
+## Impactos Selecionados
 
-• Optimized AML query performance **25x faster (-96.4% processing time)**  
-• Automated regulatory monitoring workflows reducing **~90% manual work**  
-• Built dashboards reducing operational response time **up to 98%**  
-• Reduced operational data pipelines **37min → 8min**
-
----
-
-## Focus Areas
-
-Operational Analytics  
-Risk & Compliance Data  
-Data-driven Operations  
-Automation with Data
+• Otimização de consultas de dados em PLD **25x mais rápidas (-96,4% no tempo de processamento)**  
+• Automação de fluxos regulatórios reduzindo **~90% das etapas manuais**  
+• Dashboards que reduziram o tempo de resposta operacional **em até 98%**  
+• Redução de pipelines operacionais de dados **de 37min para 8min**
 
 ---
 
-## Languages
+## Áreas de Interesse
 
-Portuguese — Native  
-English — Fluent  
-Spanish — Intermediate
+Analytics Operacional  
+Dados para Risco e Compliance  
+Automação de Processos com Dados  
+Dados aplicados à Tomada de Decisão
+
+---
+
+## Idiomas
+
+Português — Nativo  
+Inglês — Fluente  
+Espanhol — Intermediário
