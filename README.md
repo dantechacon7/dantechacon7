@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" width="26"> Opa, tudo joia? Eu me chamo Dante
+### Opa, tudo joia? Eu me chamo Dante <img src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" width="30"> 
 Analista de Dados | Analytics Engineer | BI  
 📍 Brasil  
 🔗 LinkedIn: https://linkedin.com/in/dante-costa-chacon
