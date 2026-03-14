@@ -1,4 +1,4 @@
-# Opa, tudo joia? Eu me chamo Dante <img src="assets/pepe-coffee" width="22" style="vertical-align:middle;">
+# Opa, tudo joia? Eu me chamo Dante <img src="assets/pepe-coffee.jpg" width="22" style="vertical-align:middle;">
 
 Analista de Dados | Analytics Engineer | BI  
 📍 Brasil  
