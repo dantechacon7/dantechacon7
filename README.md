@@ -68,20 +68,3 @@ Analytics operacional e governança de dados para **operações com BPOs e monit
 • Automação de fluxos regulatórios reduzindo **~90% das etapas manuais**  
 • Dashboards que reduziram o tempo de resposta operacional **em até 98%**  
 • Redução de pipelines operacionais de dados **de 37min para 8min**
-
----
-
-## Áreas de Interesse
-
-Analytics Operacional  
-Dados para Risco e Compliance  
-Automação de Processos com Dados  
-Dados aplicados à Tomada de Decisão
-
----
-
-## Idiomas
-
-Português — Nativo  
-Inglês — Fluente  
-Espanhol — Intermediário
