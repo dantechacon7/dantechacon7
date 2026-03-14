@@ -8,11 +8,7 @@ Analista de Dados | Analytics Engineer | BI
 
 ## Sobre
 
-Profissional de dados com **+5 anos aplicando analytics para melhorar operações**, atuando em empresas de fintech, proptech e SaaS.
-
-Meu trabalho conecta **dados, automação e decisões operacionais**, ajudando times a sair de processos manuais para fluxos automatizados e orientados a dados.
-
-Experiência apoiando áreas como **Compliance, CX, Risco, Produto e Operações** com modelagem de dados, automação e inteligência analítica.
+Profissional de dados com **+5 anos aplicando analytics para melhorar operações**, atuando em empresas de fintech, proptech e SaaS. Meu trabalho conecta **dados, automação e decisões operacionais**, ajudando times a sair de processos manuais para fluxos automatizados e orientados a dados. Tenho sólida experiência apoiando áreas como **Compliance, CX, Risco, Produto e Operações** com modelagem de dados, automação e inteligência analítica.
 
 ---
 
@@ -46,23 +42,7 @@ Experiência apoiando áreas como **Compliance, CX, Risco, Produto e Operações
 
 ---
 
-## Experiência
-
-**Analista de Dados Sênior — PLD/AML | Caju**
-
-Analytics operacional e automação de dados para **monitoramento transacional e fluxos regulatórios**, apoiando decisões de risco e compliance.
-
-**Analista Sênior de Planejamento e Performance | QuintoAndar**
-
-Modelagem de dados, dashboards analíticos e automações para **suporte a múltiplos squads operacionais**.
-
-**Customer Excellence Analyst | Nubank**
-
-Analytics operacional e governança de dados para **operações com BPOs e monitoramento de performance**.
-
----
-
-## Impactos Selecionados
+## Projetos recentes de impacto
 
 • Otimização de consultas de dados em PLD **25x mais rápidas (-96,4% no tempo de processamento)**  
 • Automação de fluxos regulatórios reduzindo **~90% das etapas manuais**  
