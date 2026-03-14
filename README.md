@@ -34,6 +34,7 @@ Experiência apoiando áreas como **Compliance, CX, Risco, Produto e Operações
 
 ![Superset](https://img.shields.io/badge/Superset-20232A?style=for-the-badge&logo=apache&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 ### Automação
