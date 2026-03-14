@@ -38,12 +38,3 @@ Profissional de dados com **+5 anos aplicando analytics para melhorar operaçõe
 ![Jira](https://img.shields.io/badge/Jira_Automation-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-FF6F00?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## Projetos recentes de impacto
-
-• Otimização de consultas de dados em PLD **25x mais rápidas (-96,4% no tempo de processamento)**  
-• Automação de fluxos regulatórios reduzindo **~90% das etapas manuais**  
-• Dashboards que reduziram o tempo de resposta operacional **em até 98%**  
-• Redução de pipelines operacionais de dados **de 37min para 8min**
