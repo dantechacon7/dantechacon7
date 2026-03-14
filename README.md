@@ -1,4 +1,4 @@
-# Opa, tudo joia? Eu me chamo Dante <img src="assets/pepecoffee.gif" width="28">
+# Opa, tudo joia? Eu me chamo Dante <img src="assets/f26972dfbe5f8226b76ac7bca928c82b.gif" width="28">
 
 Analista de Dados | Analytics Engineer | BI  
 📍 Brasil  
