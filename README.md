@@ -1,5 +1,6 @@
-# Opa, tudo joia? Eu me chamo Dante <img src="assets/pepe-coffee.jpg" width="22" style="vertical-align:middle;">
+# Opa, tudo joia? Eu me chamo Dante 👋
 
+<img src="assets/pepe-coffee.gif" width="40">
 Analista de Dados | Analytics Engineer | BI  
 📍 Brasil  
 🔗 LinkedIn: https://linkedin.com/in/dante-costa-chacon
