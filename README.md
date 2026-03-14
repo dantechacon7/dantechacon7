@@ -1,4 +1,4 @@
-### Opa, tudo joia? Eu me chamo Dante <img src="https://giphy.com/gifs/pepe-p-pe-ljZTsJpaaXEYuASH34.gif" width="24">
+### Opa, tudo joia? Eu me chamo Dante <img src="https://media.giphy.com/media/1EQnOWEHi47nSGMjZe/giphy.gif" width="26">
 
 Analista de Dados | Analytics Engineer | BI  
 📍 Brasil  
