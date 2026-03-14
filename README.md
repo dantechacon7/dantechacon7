@@ -1,7 +1,4 @@
-<h1>
-Opa, tudo joia? Eu me chamo Dante 
-<img src="https://media.tenor.com/9nL9m2dZ2wYAAAAC/pepe-coffee.gif" width="28">
-</h1>
+# Opa, tudo joia? Eu me chamo Dante <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 Analista de Dados | Analytics Engineer | BI  
 📍 Brasil  
 🔗 LinkedIn: https://linkedin.com/in/dante-costa-chacon
