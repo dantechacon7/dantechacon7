@@ -1,7 +1,5 @@
 # Hey there! 👋 I'm Dante
 
-# Opa, tudo joia? 👋 Eu sou o Dante
-
 **Senior Data Analyst | Analytics Engineer | Data Product | Data Governance | Data Quality**
 
 
