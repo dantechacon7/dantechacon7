@@ -4,6 +4,7 @@
 
 **Senior Data Analyst | Analytics Engineer | Data Product | Data Governance | Data Quality**
 
+
 📍 Brazil 🇧🇷
 🔗 LinkedIn: https://linkedin.com/in/dante-costa-chacon
 
