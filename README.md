@@ -10,7 +10,7 @@
 
 ---
 
-## 🇺🇸 About
+## [EN] About
 
 Data professional with **5+ years of experience leveraging analytics to drive operational improvements** across fintech, proptech, and SaaS companies.
 
@@ -20,7 +20,7 @@ I have extensive experience supporting **Compliance, Customer Experience, Risk, 
 
 ---
 
-## 🇧🇷 Sobre
+## [PT] Sobre
 
 Profissional de dados com **+5 anos utilizando analytics para impulsionar melhorias operacionais** em empresas de fintech, proptech e SaaS.
 
